@@ -1,0 +1,22 @@
+# Project generated files #
+######################
+.project
+.classpath
+.checkstyle
+*/.project
+*/.classpath
+*/.checkstyle
+*/.gitignore
+.idea/**
+
+*.iml
+*.log
+.settings/
+*/.settings
+target/
+test-output/
+*/target/
+*/test-output/
+
+*.DS_Store
+temp_persist_config_*.xml
